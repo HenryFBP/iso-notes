@@ -5,7 +5,7 @@ Hashes are MD5 by default.
 - Works with https://github.com/HenryFBP/KMS-activator
 - No license needed
 - Home OR Pro edition
-- Relevant: <https://go.microsoft.com/fwlink/?LinkID=799445>/<https://www.microsoft.com/en-us/software-download/windows10>
+- Relevant: <https://go.microsoft.com/fwlink/?LinkID=799445>/<https://www.microsoft.com/en-us/software-download/windows10>/<https://support.microsoft.com/en-us/help/3159635/windows-10-update-assistant>
 
 ### MD5
 
