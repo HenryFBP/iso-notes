@@ -1,5 +1,12 @@
 Hashes are MD5 by default.
 
+## Win10_20H2_English_x64.iso
+
+### SHA256
+
+    E793F3C94D075B1AA710EC8D462CEE77FDE82CAF400D143D68036F72C12D9A7E
+
+
 ## Win10_1703_English_x64.iso
 
 -   Works with https://github.com/HenryFBP/KMS-activator
