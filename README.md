@@ -1,5 +1,9 @@
 Hashes are MD5 by default.
 
+## Sites
+
+- <https://mirror.mika.moe/>
+
 ## Win10_20H2_English_x64.iso
 
 ### SHA256
