@@ -12,6 +12,8 @@ Hashes are MD5 by default.
 
 ### Notes
 
+- <magnet:?xt=urn:btih:51f1062816f6bf35a2ef21015716b66a35b0a27f&dn=Win10Pro1703EnglishX64June2017.isoMshaz1000&tr=udp://tracker.openbittorrent.com:80&tr=udp://tracker.opentrackr.org:1337/announce>
+
 This folder:
 
     \sources\$OEM$
@@ -22,7 +24,7 @@ Seem to be shitty hacktools that are just repacked KMS activator. Maybe RATs or 
 
 Opened the files with PPEE and there are a bunch of encrypted strings, which is even more sus.
 
-So, don't run them unless you don't care about that. Ideally, use "Reset this PC" immediately after installing this ISO. I did that, and the files were gone. Install MalwareBytes and run a full scan after to be safe(r).
+So, don't run them unless you don't care about that. Ideally, use "Reset this PC" immediately after installing this ISO. I did that, and the files were gone. Install MalwareBytes and run a full scan after to be safe(r). I did that and found 0 items.
 
 Then, after that, just run `git clone https://github.com/HenryFBP/KMS-activator` and activate if Windows ever expires.
 
