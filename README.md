@@ -11,11 +11,12 @@ Hashes are MD5 by default.
 
 -   Works with https://github.com/HenryFBP/KMS-activator
 -   No license needed
--   Home OR Pro edition
+-   Home OR Pro edition should show up
 -   Relevant:
     -   <https://go.microsoft.com/fwlink/?LinkID=799445>
     -   <https://www.microsoft.com/en-us/software-download/windows10>
     -   <https://support.microsoft.com/en-us/help/3159635/windows-10-update-assistant>
+    -   <https://archive.org/details/Win10Pro1703EnglishX64June2017.isoMshaz1000>
 
 ### MD5
 
