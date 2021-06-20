@@ -16,6 +16,18 @@ Hashes are MD5 by default.
 
 ## Win10_1703_English_x64.iso
 
+### If it install W10 Home and not Pro
+
+Odd thing. If Windows 10 Home is installed, booting from the USB Key seems to not allow you to install Windows 10 Pro. Maybe W10 installer reads for product keys on all NTFS drives? Sneaky if true, M$...
+
+Recommend booting into Linux, wiping the drive containing Windows 10 Home, and THEN trying to install Windows 10 Pro... Also, probably don't enable internet at all.
+
+Results: I wiped the HDD. Not sure why it doesn't let me pick Pro. It just installs Home.
+
+Conclusion: Not sure. Do research and find an ISO that works. Thanks M$.
+
+### Notes
+
 -   Works with https://github.com/HenryFBP/KMS-activator
 -   No license needed
 -   Home OR Pro edition should show up
